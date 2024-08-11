@@ -27,7 +27,7 @@ Web Scrapper created with python 3 manage by selenium drive. Search the informat
 
 ## Contact
 
-I'd love to connect with you! Whether you want to discuss projects, collaborations, or just chat about development, feel free to reach out to me via maarco.app98@gmail.com or on https://www.linkedin.com/in/marco-ponce-3b2a8a1a1/ or in my personal web site: https://poncemarco.github.io/cv/
+I'd love to connect with you! Whether you want to discuss projects, collaborations, or just chat about development, feel free to reach out to me via maarco.app98@gmail.com or on https://www.linkedin.com/in/marco-ponce-3b2a8a1a1/ or in my personal web site: (https://cv-2-lime.vercel.app)
 
 ## Other Skills
 - Databases: MySQL, PostgreSQL
